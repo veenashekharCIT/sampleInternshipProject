@@ -14,6 +14,8 @@
 		3F7152F522001ADA008A8DBA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F7152F322001ADA008A8DBA /* LaunchScreen.storyboard */; };
 		3F71530022001ADB008A8DBA /* IntGitProjTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F7152FF22001ADB008A8DBA /* IntGitProjTests.swift */; };
 		3F71530B22001ADB008A8DBA /* IntGitProjUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F71530A22001ADB008A8DBA /* IntGitProjUITests.swift */; };
+		3F71531922002A31008A8DBA /* PaymentStoryBoard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F71531822002A31008A8DBA /* PaymentStoryBoard.storyboard */; };
+		3F71531B22002C40008A8DBA /* AddRooms.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F71531A22002C40008A8DBA /* AddRooms.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		3F71530622001ADB008A8DBA /* IntGitProjUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IntGitProjUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F71530A22001ADB008A8DBA /* IntGitProjUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntGitProjUITests.swift; sourceTree = "<group>"; };
 		3F71530C22001ADB008A8DBA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F71531822002A31008A8DBA /* PaymentStoryBoard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = PaymentStoryBoard.storyboard; sourceTree = "<group>"; };
+		3F71531A22002C40008A8DBA /* AddRooms.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = AddRooms.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +104,8 @@
 				3F7152EA22001AD8008A8DBA /* AppDelegate.swift */,
 				3F7152EC22001AD8008A8DBA /* ViewController.swift */,
 				3F7152EE22001AD8008A8DBA /* Main.storyboard */,
+				3F71531A22002C40008A8DBA /* AddRooms.storyboard */,
+				3F71531822002A31008A8DBA /* PaymentStoryBoard.storyboard */,
 				3F7152F122001ADA008A8DBA /* Assets.xcassets */,
 				3F7152F322001ADA008A8DBA /* LaunchScreen.storyboard */,
 				3F7152F622001ADA008A8DBA /* Info.plist */,
@@ -230,7 +236,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				3F7152F522001ADA008A8DBA /* LaunchScreen.storyboard in Resources */,
+				3F71531B22002C40008A8DBA /* AddRooms.storyboard in Resources */,
 				3F7152F222001ADA008A8DBA /* Assets.xcassets in Resources */,
+				3F71531922002A31008A8DBA /* PaymentStoryBoard.storyboard in Resources */,
 				3F7152F022001AD8008A8DBA /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
